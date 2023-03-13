@@ -43,7 +43,7 @@
 ## 📫 Contacts
 
  [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:keerathap@gmail.com)
- [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/keerathap-ploysri?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B2GYSsHKoQomwQZVrxSNveA%3D%3D)
+ [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/keerathap-ploysri-135a861b3/)
 
 <!--
 **FiLM-Keerathap/FiLM-Keerathap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
