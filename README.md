@@ -1,17 +1,14 @@
-### Hi there 👋 I'm F i | /\ /\
+<h1 align="center"> Hi there 👋 I'm F i | /\ /\</h1>
 
 ### About me
 
-*
-
-##### WORK EXPERIENCE
-
--
--
+<div align="center">
+<img src="img\325329278_1862564407423109_5505480541563187161_n.jpg" width="200" height="200">
+</div>
 
 ##### EDUCATION
 
-* <img src="https://www.kmutt.ac.th/wp-content/uploads/2020/09/KMUTT_CI_Semi_Logo-normal-full-1061x1200.png" width="27" height="30"> King Mongkut’s University of Technology Thonburi(Bangkok, Thailand ) Bachelor of Engineering in Electrical Communication and Electronic Engineering
+* <img src="img\KMUTT_CI_Semi_Logo-normal-full-1061x1200.png" width="27" height="30"> King Mongkut’s University of Technology Thonburi(Bangkok, Thailand ) Bachelor of Engineering in Electrical Communication and Electronic Engineering
 
 * Completed coursework in Statistical Learning for Data Scientists, Deep Learning, Microprocessor
 
