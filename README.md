@@ -2,15 +2,19 @@
 
 ### About me
 
+<p>  I'm like an adventurer who believes I can write my own life story! Every story has a lesson for me to learn and gain experience to find myself. Passion has always motivated me to follow my interests. I have come to realize that learning is a never-ending journey,  We only see the tip of the iceberg, and there are plenty of things to discover. </p>
+
 <div align="center">
 <img src="img\325329278_1862564407423109_5505480541563187161_n.jpg" width="200" height="200">
 </div>
 
 ##### EDUCATION
 
-* <img src="img\KMUTT_CI_Semi_Logo-normal-full-1061x1200.png" width="27" height="30"> King Mongkut’s University of Technology Thonburi(Bangkok, Thailand ) Bachelor of Engineering in Electrical Communication and Electronic Engineering
+<img src="img\KMUTT_CI_Semi_Logo-normal-full-1061x1200.png" width="50" height="50" style="margin-bottom: -15px;"> <b> King Mongkut’s University of Technology Thonburi (Bangkok, Thailand ) </b>
 
-* Completed coursework in Statistical Learning for Data Scientists, Deep Learning, Microprocessor
+- Bachelor of Engineering in Electrical Communication and Electronic Engineering
+
+- Completed coursework in Statistical Learning for Data Scientists, Deep Learning, Microprocessor
 
 ## 🌱 Skills and Tools
 
