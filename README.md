@@ -11,9 +11,7 @@
 ##### EDUCATION
 
 <img src="img\KMUTT_CI_Semi_Logo-normal-full-1061x1200.png" width="50" height="50" style="margin-bottom: -15px;"> <b> King Mongkut’s University of Technology Thonburi (Bangkok, Thailand ) </b>
-
 - Bachelor of Engineering in Electrical Communication and Electronic Engineering
-
 - Completed coursework in Statistical Learning for Data Scientists, Deep Learning, Microprocessor
 
 ## 🌱 Skills and Tools
