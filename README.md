@@ -18,7 +18,7 @@
 
 #### Programming languages
 
-[![Programming_languages](https://skillicons.dev/icons?i=py,c,cpp,r,matlab,bash)](https://skillicons.dev)
+[![Programming_languages](https://skillicons.dev/icons?i=py,c,cpp,r,matlab,bash)](https://github.com/tandpfun/skill-icons)
 <!--
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) &nbsp;
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)&nbsp;
@@ -27,11 +27,11 @@
 -->
 #### Machine Learning / Deep Learning
 
-[![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch)](https://github.com/tandpfun/skill-icons)
 
 #### Tools
 
-[![Tools](https://skillicons.dev/icons?i=arduino,docker,flask,fastapi,md,git)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=arduino,docker,flask,fastapi,md,git)](https://github.com/tandpfun/skill-icons)
 
  <!--
 #### Scientific Computing Tools
