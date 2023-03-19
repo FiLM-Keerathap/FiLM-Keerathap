@@ -45,7 +45,7 @@
 
 ## 📫 Contacts:
  I'm always eager to hear about new opportunities and projects, so please don't hesitate to reach out to me via email at ```keerathap@gmail.com```,
- or <a href = "https://www.linkedin.com/in/keerathap-ploysri-135a861b3/"> <img src="https://skillicons.dev/icons?i=linkedin" width="15" height="15" > </a>
+ or <a href = "https://www.linkedin.com/in/keerathap-ploysri-135a861b3/"> <img src="https://skillicons.dev/icons?i=linkedin"  width="25" height="25" style="margin-bottom: -15px;"> </a>
  <!--
  [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:keerathap@gmail.com)
  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/keerathap-ploysri-135a861b3/)
