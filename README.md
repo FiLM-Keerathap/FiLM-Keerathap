@@ -16,6 +16,9 @@
 
 ## 🌱 Skills and Tools
 
+
+[![My Skills](https://skillicons.dev/icons?i=arduino,cpp,docker,flask,fastapi,linkedin,linux,matlab,tensorflow,pytorch,bash,py,r,git)](https://skillicons.dev)
+
 #### Programming languages
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) &nbsp;
@@ -41,6 +44,7 @@
 ## 📫 Contacts
 
  [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:keerathap@gmail.com)
+ [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/keerathap-ploysri-135a861b3/)
  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/keerathap-ploysri-135a861b3/)
  
 ## 📈 GitHub Stats
