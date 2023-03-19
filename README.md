@@ -16,23 +16,24 @@
 
 ## 🌱 Skills and Tools
 
-
-[![My Skills](https://skillicons.dev/icons?i=arduino,cpp,docker,flask,fastapi,linkedin,linux,matlab,tensorflow,pytorch,bash,py,r,git)](https://skillicons.dev)
-
 #### Programming languages
 
+[![Programming_languages](https://skillicons.dev/icons?i=py,c,cpp,r,matlab,bash)](https://skillicons.dev)
+<!--
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) &nbsp;
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)&nbsp;
 ![Matlab](https://img.shields.io/badge/Matlab-00249C?style=flat-square&logo=matlab&logoColor=white)&nbsp;
 ![bash](https://img.shields.io/badge/-Bash-05122A?style=flat-square&logo=gnubash)&nbsp;
-
+-->
 #### Machine Learning / Deep Learning
 
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras)&nbsp;
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)&nbsp;
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)&nbsp;
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logoColor=white)&nbsp;
+[![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch)](https://skillicons.dev)
 
+#### Tools
+
+[![Tools](https://skillicons.dev/icons?i=arduino,docker,flask,fastapi,md,git)](https://skillicons.dev)
+
+ <!--
 #### Scientific Computing Tools
 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)&nbsp;
@@ -40,12 +41,15 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23d9ead3.svg?style=flat-square&logo=Matplotlib&logoColor=black)&nbsp;
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat-square&logo=opencv&logoColor=white)&nbsp;
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=SciPy&logoColor=%white)&nbsp;
+-->
 
 ## 📫 Contacts
 
+ [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/keerathap-ploysri-135a861b3/)
+ <!--
  [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:keerathap@gmail.com)
- [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/keerathap-ploysri-135a861b3/)
  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/keerathap-ploysri-135a861b3/)
+-->
  
 ## 📈 GitHub Stats
 [![FiLM-Keerathap's github stats](https://github-readme-stats.vercel.app/api?username=FiLM-Keerathap&hide=stars&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;
